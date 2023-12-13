@@ -1,0 +1,95 @@
+########################## hero area ##########################
+hero:
+  title: "I'm Katherapaka Nikhil"
+  occupations:
+    - "Electrical Engineer"
+    - "IITIAN"
+  bg_image: "/a.jpg"
+  mobile_bg_image: "/a.jpg"
+  # Add animation-related settings here
+  animation:
+    enable: true
+    library: "GSAP" # Specify the animation library you are using
+
+########################### About ##################################
+about:
+  enable: true
+  image: "me.jpg"
+  title: "THIS IS ME"
+  content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [LinkedIn, Github, or by email](#contact)!
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: "Qualifications"
+  # Add animation-related settings here
+  animation:
+    enable: true
+    library: "GSAP" # Specify the animation library you are using
+  experience_list:
+    - name: Web Developer
+      company: Freelance
+      duration: "2023-Current"
+      content: I make websites.
+
+    - name: Electrical Engineer
+      company: IIT HYDERABAD
+      duration: "2022-26"
+      content: B-tech .
+
+    - name: Projects Head
+      company: Prakriti Club
+      duration: "2023-24"
+      content: Sci-tech council.
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: "SKILLS"
+  showpercent: false
+  # Add animation-related settings here
+  skill_list:
+    - name: "C"
+
+    - name: "Python"
+
+    - name: "Java"
+
+    - name: "CSS & HTML"
+
+    - name: "Latex"
+
+######################### funfacts #############################3
+funfacts:
+  enable: true
+  funfacts_list:
+    - name: "Exercise"
+      image: "/g.jpeg"
+      count: "365"
+
+    - name: "Movies"
+      image: "/m.jpeg"
+      count: "25"
+
+    - name: "Travel"
+      image: "/t.jpeg"
+      count: "10"
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: "MY WORK"
+  portfolio_list:
+    - name: Hugo
+      image: "images/portfolio/hugo.png"
+      url: https://gohugo.io
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Hugo Themes
+      image: "images/portfolio/hugothemes.png"
+      url: https://gohugo.io
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint
+
+    - name: Just A Design
+      image: "images/portfolio/design.png"
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint
