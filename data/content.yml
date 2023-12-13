@@ -4,8 +4,8 @@ hero:
   occupations:
     - "Electrical Engineer"
     - "IITIAN"
-  bg_image: "/a.jpg"
-  mobile_bg_image: "/a.jpg"
+  bg_image: "https://w0.peakpx.com/wallpaper/558/82/HD-wallpaper-chicago-black-blue-city-dark-night-town.jpg"
+  mobile_bg_image: "https://w0.peakpx.com/wallpaper/558/82/HD-wallpaper-chicago-black-blue-city-dark-night-town.jpg"
   # Add animation-related settings here
   animation:
     enable: true
