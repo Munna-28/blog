@@ -4,12 +4,7 @@
     <div class="menu-container">
       <div class="desktop-menu-logo">
         <a href="{{ .Site.BaseURL | relLangURL }}"
-          ><img
-            class="img-fluid"
-            src="{{ .Site.Params.logo_light | relURL }}"
-            alt="{{ .Site.Title }}"
-            id="desktop-logo"
-        /></a>
+          ></a>
       </div>
       <ul class="desktop-menu list-inline mb-0" id="desktop-menu">
         {{ range .Site.Menus.main }}
@@ -29,11 +24,7 @@
         </div>
         <div class="mobile-menu-logo">
           <a href="{{ .Site.BaseURL | relLangURL }}"
-            ><img
-              class="img-fluid"
-              src="{{ .Site.Params.logo_dark | relURL }}"
-              alt="{{ .Site.Title }}"
-          /></a>
+            ></a>
         </div>
         <div class="menu-slider">
           <nav>
