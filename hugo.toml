@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://github.com/Munna-28/blog"
-title = "Port Hugo"
+title = "Nikhil's Website"
 theme = "port-hugo"
 
 ############################# Plugins ##############################
