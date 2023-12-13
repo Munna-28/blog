@@ -4,8 +4,8 @@ hero:
   occupations:
     - "Electrical Engineer"
     - "IITIAN"
-  bg_image: "https://w0.peakpx.com/wallpaper/558/82/HD-wallpaper-chicago-black-blue-city-dark-night-town.jpg"
-  mobile_bg_image: "https://w0.peakpx.com/wallpaper/558/82/HD-wallpaper-chicago-black-blue-city-dark-night-town.jpg"
+  bg_image: "https://wallpapercave.com/wp/wp9233431.jpg"
+  mobile_bg_image: "https://wallpapercave.com/wp/wp9233431.jpg"
   # Add animation-related settings here
   animation:
     enable: true
@@ -64,15 +64,15 @@ funfacts:
   enable: true
   funfacts_list:
     - name: "Exercise"
-      image: "/g.jpeg"
+      image: "https://png.pngtree.com/png-vector/20220409/ourmid/pngtree-gym-gymnasium-body-building-exercise-training-fitness-workout-png-image_4503753.png"
       count: "365"
 
     - name: "Movies"
-      image: "/m.jpeg"
-      count: "25"
+      image: "https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png"
+      count: "250"
 
     - name: "Travel"
-      image: "/t.jpeg"
+      image: "https://e7.pngegg.com/pngimages/384/783/png-clipart-travel-travel-tourism-travel.png"
       count: "10"
 
 ############################# portfolio ################################
