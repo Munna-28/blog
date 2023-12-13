@@ -64,7 +64,7 @@ funfacts:
   enable: true
   funfacts_list:
     - name: "Exercise"
-      image: "https://png.pngtree.com/png-vector/20220409/ourmid/pngtree-gym-gymnasium-body-building-exercise-training-fitness-workout-png-image_4503753.png"
+      image: "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?cs=srgb&dl=pexels-william-choquette-1954524.jpg&fm=jpg"
       count: "365"
 
     - name: "Movies"
